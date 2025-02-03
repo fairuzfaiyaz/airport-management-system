@@ -1,0 +1,5 @@
+Flight: F140, Madrid, New York, 2023-09-25 08:45, 2023-09-25 21:30, 210
+Card Number: 123
+Name: 123
+Expiry Date: 123
+---------
